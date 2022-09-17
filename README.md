@@ -18,4 +18,6 @@ Function:
    
    
 
-I rewrite this project and use _SwiftUI_ instead of _UIKit_, which is more attractive and beautiful. I also make a **.dmg** for someone who just want to use this app. Here is the [link](https://github.com/Zhouyuankun/ScreenZ)
+I rewrite this project using _SwiftUI_ instead of _UIKit_, new UI is more attractive and beautiful.
+
+I also make a **.dmg** for someone who just want to use this app. Here is the [link](https://github.com/Zhouyuankun/ScreenZ)
