@@ -18,4 +18,4 @@ Function:
    
    
 
-To Be Continue...
+I rewrite this project and use _SwiftUI_ instead of _UIKit_, which is more attractive and beautiful. I also make a **.dmg** for someone who just want to use this app. Here is the [link](https://github.com/Zhouyuankun/ScreenZ)
